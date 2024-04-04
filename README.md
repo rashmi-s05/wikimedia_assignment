@@ -1,4 +1,4 @@
-This repository contains an application for viewing and editing text documents.
+<!--This repository contains an application for viewing and editing text documents.
 Users of the application can:
 
 * Create new pages
@@ -80,4 +80,33 @@ Download [composer](https://getcomposer.org/), then:
 
 ## Submission
 
-Please create a ZIP file of the git repository and send back to the recruiter.
+Please create a ZIP file of the git repository and send back to the recruiter. -->
+
+**Assignment Task**
+
+This project was developed as part of an assignment with specific requirements. The tasks involved were:
+
+**Refactor API Endpoint Handling**: Clean up the code in api.php to improve readability and maintainability. Organize the API routes and handlers for easier maintenance and expansion.
+
+**Improve Documentation**: Enhance the documentation within api.php to improve code understanding and readability. Provide clear comments and explanations for better comprehension.
+
+**Optimize Prefix Search**: Enhance the performance and accuracy of the prefix search functionality in api.php. Ensure that users can find articles by searching with a prefix efficiently.
+
+**Security Enhancements**: Identify and address potential security vulnerabilities in the codebase. Implement measures to enhance the security of the application.
+
+**Database Design**: Design a database schema to efficiently track edits made by users. Store IP addresses of users who have edited articles and enable efficient lookup of edits based on articles and IP addresses.
+
+**Technologies Used**
+
+PHP
+
+Composer
+
+MySQL (for database design task)
+
+
+**Credits**
+
+This project was completed as part of an assignment and is maintained by Rashmi Shimpi.
+
+
